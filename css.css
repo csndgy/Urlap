@@ -1,0 +1,39 @@
+#mentes {
+    background-color: rgb(146, 218, 39);
+    color: white;
+    width: 500px;
+    border: green solid 2px;
+    height: 30px;
+}
+.pirosborder {
+    border: rgb(165, 20, 20) solid 2px;
+}
+.io {
+    width: 120px;
+}
+.vc {
+    width: 375px;
+}
+#nev {
+    width: 210px;
+}
+#tel {
+    width: 234px;
+}
+#cimp {
+    position: relative;
+    left: 80px;
+}
+#varos {
+    position: relative;
+    left: 40px;
+}
+#tele {
+    position: relative;
+    left: 182px;
+}
+span {
+    color: rgb(253, 8, 8);
+    position: relative;
+    left: 4px;
+}
